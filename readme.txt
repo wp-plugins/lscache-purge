@@ -1,7 +1,7 @@
 === LiteSpeed Cache Purge ===
 Contributors: LiteSpeed Tech.
 Tags: lsws, lscache, purge, cache
-Requires at least: LSWS 4.2.2-ent
+Requires at least: LSWS 4.2.2-ent (2CPU license or above)
 Tested up to: 3.5.1
 Stable tag: 1.0.0
 
