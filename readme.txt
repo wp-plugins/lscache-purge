@@ -47,7 +47,7 @@ For details, refer to http://blog.litespeedtech.com/2013/02/18/lsws-cache-purge-
 == Changelog ==
 
 = 1.0.1 =
-* eliminate 'The plugin generated 1 characters of unexpected output during activation' error message.
+* Eliminate 'The plugin generated 1 characters of unexpected output during activation' error message.
 
 = 1.0.0 =
 * Initial Release
