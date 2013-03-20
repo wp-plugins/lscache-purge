@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 == Description ==
 Plugin for invalidating Wordpress items on a litespeed cache
 
-LiteSpeed Cache Purge sends an HTTP PURGE or REFRESH request to the URL of a page or post every time it it modified. This occurs when editing, publishing, commenting or deleting an item.
+LiteSpeed Cache Purge sends an HTTP PURGE or REFRESH request to the URL of a page or post every time it is modified. This occurs when editing, publishing, commenting or deleting an item.
 
 == Requirements ==
 In order to work, the varnish cache meeds to accept PURGE/REFRESH request from the host of the wordpress web server.
