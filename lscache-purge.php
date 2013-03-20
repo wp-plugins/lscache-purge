@@ -3,7 +3,7 @@
 Plugin Name: LiteSpeed Cache Purge
 Plugin URI: http://wordpress.org/extend/plugins/lscache-purge/
 Description: Sends HTTP PURGE requests to URLs of changed posts/pages when they are modified. Works with LSWS 4.2.2-ent and up.
-Version: 1.0.0
+Version: 1.0.1
 Author: LiteSpeed
 Author URI: http://www.litespeedtech.com/
 */
