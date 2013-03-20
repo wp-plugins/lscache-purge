@@ -3,7 +3,7 @@ Contributors: LiteSpeed Tech.
 Tags: lsws, lscache, purge, cache
 Requires at least: LSWS 4.2.2-ent (2CPU license or above)
 Tested up to: 3.5.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 == Description ==
 Plugin for invalidating Wordpress items on a litespeed cache
@@ -45,6 +45,9 @@ wp-admin
 For details, refer to http://blog.litespeedtech.com/2013/02/18/lsws-cache-purge-plugin/
 
 == Changelog ==
+
+= 1.0.1 =
+* eliminate 'The plugin generated 1 characters of unexpected output during activation' error message.
 
 = 1.0.0 =
 * Initial Release
